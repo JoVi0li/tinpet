@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "481470008590",
+    "project_id": "tinpet-fatec",
+    "storage_bucket": "tinpet-fatec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481470008590:android:a8099e3a7b8cec725a9b5f",
+        "android_client_info": {
+          "package_name": "com.app.tinpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481470008590-h4hbp1bp6ln6kl6vjp896q815mi2agbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDln5xHMA7Ve-ovCOdC6WK0mDYMKT7DfdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481470008590-h4hbp1bp6ln6kl6vjp896q815mi2agbv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481470008590-rkf6517jhhbbk3n1jskbda6tvo1o5eqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.tinpet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481470008590:android:69fa6fc45c1844065a9b5f",
+        "android_client_info": {
+          "package_name": "com.app.tinpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481470008590-eip39j3mqdbtgrv6aeqfbvp1s5r6gbf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.tinpet",
+            "certificate_hash": "5b9cafec1b8c88dedc9238ab66929c2ac491c7fd"
+          }
+        },
+        {
+          "client_id": "481470008590-h6skq1fnn08eidv0359vs26l66gb105n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.tinpet",
+            "certificate_hash": "ad88846717c905c72af62dd7234222106f33a53c"
+          }
+        },
+        {
+          "client_id": "481470008590-h4hbp1bp6ln6kl6vjp896q815mi2agbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDln5xHMA7Ve-ovCOdC6WK0mDYMKT7DfdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481470008590-h4hbp1bp6ln6kl6vjp896q815mi2agbv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481470008590-rkf6517jhhbbk3n1jskbda6tvo1o5eqr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.tinpet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
